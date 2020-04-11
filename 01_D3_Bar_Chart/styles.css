@@ -1,0 +1,16 @@
+.bar:hover {
+    fill: #2B3E50;
+}
+
+#tooltip {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    padding: 2px;
+    font: 12px;
+    background: #444e5a;
+    border: none;
+    box-shadow: 1px 1px 10px;
+    border-radius: 5px;
+    pointer-events: none;
+}

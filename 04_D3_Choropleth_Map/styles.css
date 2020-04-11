@@ -1,0 +1,19 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#tooltip {
+    position: absolute;
+    padding: 10px;
+    font: 10px;
+    background: #444e5a;
+    border: none;
+    box-shadow: 1px 1px 10px;
+    border-radius: 5px;
+    pointer-events: none;
+}
+
+#legend {
+    font-size: 0.9rem;
+}
